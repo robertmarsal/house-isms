@@ -1,0 +1,20 @@
+Made by Robert Boloc
+Thanks for downloading my skin, and for reading this:)
+
+---------------
+How To Install:
+---------------
+- first install the costum font to your system ('HouseMod' file)(to install a font just drag it to your fonts folder, or open it and press install)
+- then copy the "House-isms" folder to your Rainmeter Skins folder (that is located in your documents)
+- restart Rainmeter so it can detect the new font
+- enjoy the house-isms:P
+
+------
+Notes: 
+------
+- contains 1000+ quotes from the official House M.D. website
+- the skin updates the quotes every 15 minutes, if you want a lower (or higher) rate of refresh, feel free to modify the 'Update' variable 
+ from the 'House-isms.ini' file. The measure is miliseconds.
+- if you want to remove or add quotes, you can modify the 'quotes' file in the skins folder. Remember to use the token '*' after each quote!
+- i do not recommend to modify the 'W' od 'H' measures because if the area is too small the text can be cut off! But feel free to experiment, 
+ the sizes defined by me guarantee that the quotes will not be cut off.

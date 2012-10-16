@@ -1,5 +1,3 @@
-## House-isms
-
 #### Installation
 [Download](https://github.com/downloads/robertboloc/House-isms/House-isms.rmskin) the .rmskin for one click install
 

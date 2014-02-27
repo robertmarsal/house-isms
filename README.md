@@ -24,7 +24,7 @@ to remove the .gitignore files from the empty folders
 
 #### License
 The MIT License (MIT)  
-Copyright (c) 2012 Robert Boloc
+Copyright (c) 2012-2014 Robert Boloc
  
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
